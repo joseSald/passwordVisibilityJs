@@ -18,7 +18,7 @@ body{
     display: flex;
     align-items: center;
 }
-.input-box{
+.input-box input{
     width: 100%;
     padding: 10px 0 ;
     border: 0;
